@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AYUSH_VG</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="subtitle1">to Ministry of AYUSH \n Do you know What is AYUSH ?? \n AYUSH stands for Ayurveda,Yoga ,Unani,Siddha and Homeopathy.</string>
+    <string name="subtitle2">Ayurveda is an ancient Indian system of medicine that promotes health through a balanced mind, body, and spirit.\n  It emphasizes natural remedies, diet, and lifestyle practices like yoga and meditation.</string>
+    <string name="subtitle3">Yoga is a holistic practice that originated in ancient India, combining physical postures, breathing exercises, and meditation to promote physical, mental, and spiritual well-being. </string>
+    <string name="subtitle4">Unani is a traditional system of medicine that originated in ancient Greece and was later developed in the Arab world. \n It is based on the teachings of Hippocrates and Galen, and later expanded by Islamic scholars.</string>
+    <string name="subtitle5">Siddha is an ancient system of medicine that originated in South India, believed to be one of the oldest in the world. </string>
+    <string name="subtitle6">Homeopathy is a system of alternative medicine developed in the late 18th century by German physician Samuel Hahnemann.\nHomeopathy aims to stimulate the body's natural healing processes and is used to treat a wide range of conditions. </string>
+</resources>
